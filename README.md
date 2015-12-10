@@ -1,7 +1,7 @@
 # Machine Learning Small Project
 Some small projects of the machine learning course.
 
-In the branch Final Project, I used 3 dataset from UCI database. 
+In this branch, Final Project, I used 3 dataset from UCI database. 
 
 1. HIV-1 protease cleavage
 2. Diabetes 130-US hospitals
